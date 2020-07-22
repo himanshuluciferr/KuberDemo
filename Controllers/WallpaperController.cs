@@ -13,7 +13,7 @@ namespace Kuber.Controllers
     {
         public string[] getData()
         {
-            return new string[] { "Welcome", "Good Morning" };
+            return new string[] { "Welcome", "Good Morning","Good Day" };
         }
     }
 }
