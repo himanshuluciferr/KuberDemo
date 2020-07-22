@@ -1,0 +1,34 @@
+
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: Kuber-deployment
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: Kuber
+  template:
+    metadata:
+      labels:
+        app: Kuber
+    spec:
+      containers:
+      - name: kuber
+        image: wallpaperlcr.azurecr.io/value:latest
+        ports:
+        - containerPort: 8080
+      imagePullSecrets:
+      - name: wallpaperan
+
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: kuber
+spec:
+  type: LoadBalancer
+  ports:
+  - port: 80
+  selector:
+    app: Kuber
