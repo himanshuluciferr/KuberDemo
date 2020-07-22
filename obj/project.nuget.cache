@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "DKnuXo39DZI9zUg2MS1Ua5Ic+LZ94/aUIwnkQvRP27Y7Rrwlb0lsNjK2KMJqwoArXSnMV5ABCoB1vvnvZ+vYJA==",
+  "success": true,
+  "projectFilePath": "F:\\Kuber\\Kuber.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HIMANSHU\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,9 @@
+F:\Kuber\bin\Debug\netcoreapp3.1\appsettings.Development.json
+F:\Kuber\bin\Debug\netcoreapp3.1\appsettings.json
+F:\Kuber\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+F:\Kuber\obj\Debug\netcoreapp3.1\Kuber.csprojAssemblyReference.cache
+F:\Kuber\obj\Debug\netcoreapp3.1\Kuber.AssemblyInfoInputs.cache
+F:\Kuber\obj\Debug\netcoreapp3.1\Kuber.AssemblyInfo.cs
+F:\Kuber\obj\Debug\netcoreapp3.1\Kuber.RazorTargetAssemblyInfo.cache
+F:\Kuber\obj\Debug\netcoreapp3.1\staticwebassets\Kuber.StaticWebAssets.Manifest.cache
+F:\Kuber\obj\Debug\netcoreapp3.1\staticwebassets\Kuber.StaticWebAssets.xml
